@@ -50,7 +50,7 @@
 ## 👯 Projects
 
 ### 👨🏽‍💻 2025
-- 👋 **Tiny-universe(Contributor)** - 2k+star!! tiny-universe 旨在将LLM"白盒"化,用最简洁的代码实现LLM的加载,预训练,微调,推理,RAG,评测以及Agent全流程.
+- 👋 **Tiny-universe(Contributor for tiny-imgrag)** - 2k+star!! tiny-universe 旨在将LLM"白盒"化,用最简洁的代码实现LLM的加载,预训练,微调,推理,RAG,评测以及Agent全流程.
 
 ---
 
