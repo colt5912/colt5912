@@ -17,6 +17,7 @@
 ## 🏆 Competitions
 
 ### 🏅 2025
+- 🥈 **Silver Medal** - Kaggle BirdCLEF+ 2025 (Speech Signal)
 - 🥉 **Bronze Medal** - Kaggle Drawing with LLMs (Text2Image&LLM)
 - 🥉 **Bronze Medal** - Kaggle CIBMTR - Equity in post-HCT Survival Predictions (Data Science)
 
