@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm **Cecilll Z**
+# 👋 Hi there! I'm **littlehorse**
 
 | 🎯 **CV & NLP & ML** | 🏆 **Kaggle Master** |
  
@@ -18,21 +18,20 @@
 
 ### 🏅 2025
 - 🥈 **Silver Medal** - Kaggle BirdCLEF+ 2025 (Speech Signal)
-- 🥉 **Bronze Medal** - Kaggle Drawing with LLMs (Text2Image&LLM)
-- 🥉 **Bronze Medal** - Kaggle CIBMTR - Equity in post-HCT Survival Predictions (Data Science)
+- 🥈 **Silver Medal** - Kaggle BYU - Locating Bacterial Flagellar Motors 2025 (Object Detection)
+- 🥇 **Gold Medal** - Kaggle LLMs - You Can't Please Them All(LLM)
 
 ### 🏅 2024
-- 🥈 **Silver Medal** - Kaggle Optiver - Trading at the Close (Time Series)
 - 🥉 **Outstanding Award** - DataCastle-ZHIHENGWU Trace and Seek - Target Recognition Tiered Competition (Object Detection)
-
-### 🏅 2023
-- 🥈 **Silver Medal** - Kaggle - LLM Science Exam (Large Language Model)
+- 🥉 **Bronze Medal** - Kaggle Eedi - Mining Misconceptions in Mathematics(LLM RAG)
+- 🥈 **Silver Medal** - Kaggle ISIC 2024 - Skin Cancer Detection with 3D-TBP(Medical imaging)
+- 🥉 **Bronze Medal** - Kaggle LMSYS - Chatbot Arena Human Preference Predictions(LLM)
 - 🥉 **third Place** - iFLYTEK-A.I. Autonomous Vessel Obstacle Detection Challenge (Object Detection)
 - 🥉 **Fifth Place** - iFLYTEK-A.I. Remote Sensing Image Tilted Ship Detection Challenge (Object Detection)
 - 🥉 **Outstanding Award** - SEED The application of artificial intelligence technology in thyroid ultrasound imaging (Image Segmentation)
 
-### 🏅 2022
-- 🥇 **Gold Medal** - Kaggle PetFinder.my - Pawpularity Contest (Multi-modal)
+### 🏅 2023
+- 🥉 **Bronze Medal** - Kaggle LLM Science Exam (Large Language Model)
 
 ---
 
@@ -43,7 +42,7 @@
 ### 📜 2024
 - 📝 **High-Precision Semi-supervised 3D Dental Segmentation Based on nnUNet** - MICCAI Workshop
 
-### 📜 2022
+### 📜 2023
 - 📝 **Brain tumour segmentation based on an improved U-Net** - BMC Medical Imaging
 
 ---
