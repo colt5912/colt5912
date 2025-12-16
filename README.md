@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm **littlehorse**
+# 👋 Hi there! I'm **colt**
 
 | 🎯 **CV & NLP & ML** | 🏆 **Kaggle Master** |
  
@@ -20,6 +20,11 @@
 - 🥈 **Silver Medal** - Kaggle BirdCLEF+ 2025 (Speech Signal)
 - 🥈 **Silver Medal** - Kaggle BYU - Locating Bacterial Flagellar Motors 2025 (Object Detection)
 - 🥇 **Gold Medal** - Kaggle LLMs - You Can't Please Them All(LLM)
+- 🥉 **Bronze Medal** - Kaggle NeurIPS 2025 - Google Code Golf Championship(Code LLM DATA)
+- 🥉 **Bronze Medal** - Kaggle Jigsaw - Agile Community Rules Classification(LLM)
+- 🥉 **Bronze Medal** - Kaggle MAP - Charting Student Math Misunderstandings(LLM)
+- 🥈 **Silver Medal** - Kaggle NeurIPS - Open Polymer Prediction 2025(AI4S)
+- 🥈 **Silver Medal** - Kaggle Make Data Count - Finding Data References(LLM)
 
 ### 🏅 2024
 - 🥉 **Outstanding Award** - DataCastle-ZHIHENGWU Trace and Seek - Target Recognition Tiered Competition (Object Detection)
@@ -37,7 +42,11 @@
 
 ## 📄 Publications
 ### 📜 2025
-- 📝 **TDSR:Temporal Dynamics Enhanced Semantic Recommendation via Cross-Domain Interactive Learning** - ICIC oral
+- 📝 **Diagno-S: Towards Verifiable Medical Reasoning via Diagnostic Decomposition** - BIBM 2025
+- 📝 **Multi‐Scale Volumetric Transformers with Adaptive Uncertainty Modeling for Robust Bacterial Flagellar Motor Localization in Cryo‐Electron Tomography** - BIBM 2025
+- 📝 **Bayesianly-Corrected, Bandit-Optimized Multi-Agent LLMs: Rethinking Agents via Control-Theoretic Dynamics** - PRICAI 2025
+- 📝 **PRISM: Principled Reasoning for Identifying and Suppressing Model Biases at Scale** - PRICAI 2025
+- 📝 **TDSR:Temporal Dynamics Enhanced Semantic Recommendation via Cross-Domain Interactive Learning** - ICIC 2025
 
 ### 📜 2024
 - 📝 **High-Precision Semi-supervised 3D Dental Segmentation Based on nnUNet** - MICCAI Workshop
